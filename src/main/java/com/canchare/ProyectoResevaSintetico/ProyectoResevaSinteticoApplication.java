@@ -7,7 +7,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class ProyectoResevaSinteticoApplication {
 
 	public static void main(String[] args) {
+
 		SpringApplication.run(ProyectoResevaSinteticoApplication.class, args);
+		System.out.println("hello world");
 	}
 
 }
